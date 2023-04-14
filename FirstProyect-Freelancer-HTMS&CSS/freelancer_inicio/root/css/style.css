@@ -22,3 +22,13 @@ body{
 .title span {
     font-size: 2rem;
 }
+.contenedor {
+    width: 120rem;
+    margin: 0 auto;
+}
+.nav-bg {
+    background-color: var(--secunario);
+}
+.navegacion-principal {
+    background-color: var(--secunario);
+}
