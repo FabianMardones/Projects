@@ -7,7 +7,7 @@ boton.addEventListener('click', function(){
 });
 
 if(Notification.permission == 'granted'){
-    new Notification('Esta es una notificacion', {
+    new Notification('Prueba de notificacion', {
         icon:'img1.png',
         body: 'FabiancitoSuccess',
     })
